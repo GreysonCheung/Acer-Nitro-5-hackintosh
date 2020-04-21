@@ -58,3 +58,7 @@ BIOS版本：V1.28
 + 休眠唤醒后偶发性蓝牙不可用，蓝牙连接耳机等设备有时无法成功，目前暂未进行排查
 + 键盘灯无法控制，原因上硬件没有可用于调节的接口功能
 + HDMI无法外接输出，可能硬件接口输出端在独显上，目前无法解决
+
+![image](https://github.com/JackyZHZ/Acer-Nitro-5-hackintosh/blob/master/screenshots/SystemInfo.png)
+
+![image](https://github.com/JackyZHZ/Acer-Nitro-5-hackintosh/blob/master/screenshots/Touchpad.png)
