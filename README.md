@@ -89,4 +89,9 @@ BIOS版本：V1.28
 ![image](https://github.com/JackyZHZ/Acer-Nitro-5-hackintosh/blob/master/screenshots/Airdrop.png)
 
 
+## 参考资源
++ https://www.penghubingzhou.cn/2019/01/06/VoodooI2C%20DSDT%20Edit/
 
++ https://blog.daliansky.net/
+
++ https://github.com/RehabMan/Laptop-DSDT-Patch
