@@ -16,7 +16,7 @@ CPU：Intel i5-8300H
 BIOS版本：V1.28
 
 BIOS中需要注意的设置：
-1、Main页面
+1. Main页面
     > Network Boot = Disabled (理论上缩短开机时间)
     > F12 Boot Menu = Enabled
     > SATA Mode = AHCI
@@ -29,19 +29,19 @@ BIOS中需要注意的设置：
     > xHCI Support = Enabled
     > Keyboard Lighting Timeout = Enabled 
     > Fast Boot = Enabled
-2、Advanced页面
+2. Advanced页面
     > Intel VTX = Enabled
     > Intel VTD = Enabled
     其它保持默认
-3、Boot页面
+3. Boot页面
     > Boot Mode = UEFI
     > Secure Boot = Disabled
 
 目前实现情况：
-1、核显完美，由于目前无法驱动独显已进行屏蔽，降低整机功耗
-2、键盘及触摸板几乎完美，键盘大部分快捷功能都可使用（如音量控制），触摸板几乎完美实现苹果原生手势操作
-3、Wifi、蓝牙可用隔空及接力
-4、完美休眠
+1. 核显完美，由于目前无法驱动独显已进行屏蔽，降低整机功耗
+2. 键盘及触摸板几乎完美，键盘大部分快捷功能都可使用（如音量控制），触摸板几乎完美实现苹果原生手势操作
+3. Wifi、蓝牙可用隔空及接力
+4. 完美休眠
 目前发现不足：
-1、休眠唤醒后偶发性蓝牙不可用，蓝牙连接耳机等设备有时无法成功，目前暂未进行排查
-2、键盘灯无法控制，原因上硬件没有可用于调节的接口功能
+1. 休眠唤醒后偶发性蓝牙不可用，蓝牙连接耳机等设备有时无法成功，目前暂未进行排查
+2. 键盘灯无法控制，原因上硬件没有可用于调节的接口功能
