@@ -61,4 +61,29 @@ BIOS版本：V1.28
 
 ![image](https://github.com/JackyZHZ/Acer-Nitro-5-hackintosh/blob/master/screenshots/SystemInfo.png)
 
+![image](https://github.com/JackyZHZ/Acer-Nitro-5-hackintosh/blob/master/screenshots/1.png)
+
+![image](https://github.com/JackyZHZ/Acer-Nitro-5-hackintosh/blob/master/screenshots/USB.png)
+
+![image](https://github.com/JackyZHZ/Acer-Nitro-5-hackintosh/blob/master/screenshots/Video.png)
+
+![image](https://github.com/JackyZHZ/Acer-Nitro-5-hackintosh/blob/master/screenshots/NVME.png)
+
+![image](https://github.com/JackyZHZ/Acer-Nitro-5-hackintosh/blob/master/screenshots/Memory.png)
+
+![image](https://github.com/JackyZHZ/Acer-Nitro-5-hackintosh/blob/master/screenshots/Camera.png)
+
+![image](https://github.com/JackyZHZ/Acer-Nitro-5-hackintosh/blob/master/screenshots/Bluetooth.png)
+
+![image](https://github.com/JackyZHZ/Acer-Nitro-5-hackintosh/blob/master/screenshots/Battery.png)
+
+![image](https://github.com/JackyZHZ/Acer-Nitro-5-hackintosh/blob/master/screenshots/Audio.png)
+
 ![image](https://github.com/JackyZHZ/Acer-Nitro-5-hackintosh/blob/master/screenshots/Touchpad.png)
+
+![image](https://github.com/JackyZHZ/Acer-Nitro-5-hackintosh/blob/master/screenshots/Bluetooth2.png)
+
+![image](https://github.com/JackyZHZ/Acer-Nitro-5-hackintosh/blob/master/screenshots/Airdrop.png)
+
+
+
