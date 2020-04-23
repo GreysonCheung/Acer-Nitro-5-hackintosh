@@ -63,6 +63,8 @@ BIOS版本：V1.28
 + 读卡器无法使用，暂无驱动支持
 + 无风扇转速信息，正在排查原因
 
+特别鸣谢：@w21fanfan1314 提供硬件
+
 ![image](https://github.com/JackyZHZ/Acer-Nitro-5-hackintosh/blob/master/screenshots/SystemInfo.png)
 
 ![image](https://github.com/JackyZHZ/Acer-Nitro-5-hackintosh/blob/master/screenshots/1.png)
